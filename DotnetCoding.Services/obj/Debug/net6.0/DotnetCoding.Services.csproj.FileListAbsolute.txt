@@ -1,0 +1,15 @@
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.deps.json
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.dll
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Services.pdb
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Core.dll
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\bin\Debug\net6.0\DotnetCoding.Core.pdb
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.csproj.AssemblyReference.cache
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.AssemblyInfoInputs.cache
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.AssemblyInfo.cs
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.csproj.CoreCompileInputs.cache
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.csproj.CopyComplete
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.dll
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\refint\DotnetCoding.Services.dll
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\DotnetCoding.Services.pdb
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Services\obj\Debug\net6.0\ref\DotnetCoding.Services.dll

@@ -1,0 +1,12 @@
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\bin\Debug\net6.0\DotnetCoding.Core.deps.json
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\bin\Debug\net6.0\DotnetCoding.Core.dll
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\bin\Debug\net6.0\DotnetCoding.Core.pdb
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.csproj.AssemblyReference.cache
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.AssemblyInfoInputs.cache
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.AssemblyInfo.cs
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.csproj.CoreCompileInputs.cache
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.dll
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\refint\DotnetCoding.Core.dll
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.pdb
+C:\Itlize\Training\practice_project\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\ref\DotnetCoding.Core.dll
